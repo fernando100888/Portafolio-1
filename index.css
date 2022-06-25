@@ -1,0 +1,26 @@
+
+*{  
+  font-size: large;  
+}
+
+
+
+a{
+  text-decoration: none;  
+}
+
+
+
+.body{
+  background-color: white;
+}
+ 
+
+
+.mainb{
+  border-top:1px solid gray;
+  border-bottom:1px solid gray;
+}
+
+
+
